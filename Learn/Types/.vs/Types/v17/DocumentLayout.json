@@ -1,0 +1,65 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "Z:\\Practice\\C#\\Learn\\Types\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6A4B7647-0D55-44E1-A982-48477D683319}|Types\\Types.csproj|z:\\practice\\c#\\learn\\types\\types\\records1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6A4B7647-0D55-44E1-A982-48477D683319}|Types\\Types.csproj|solutionrelative:types\\records1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6A4B7647-0D55-44E1-A982-48477D683319}|Types\\Types.csproj|z:\\practice\\c#\\learn\\types\\types\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6A4B7647-0D55-44E1-A982-48477D683319}|Types\\Types.csproj|solutionrelative:types\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e506b91c-c606-466a-90a9-123d1d1e12b3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "Z:\\Practice\\C#\\Learn\\Types\\Types\\Program.cs",
+              "RelativeDocumentMoniker": "Types\\Program.cs",
+              "ToolTip": "Z:\\Practice\\C#\\Learn\\Types\\Types\\Program.cs",
+              "RelativeToolTip": "Types\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-15T22:22:27.811Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Records1.cs",
+              "DocumentMoniker": "Z:\\Practice\\C#\\Learn\\Types\\Types\\Records1.cs",
+              "RelativeDocumentMoniker": "Types\\Records1.cs",
+              "ToolTip": "Z:\\Practice\\C#\\Learn\\Types\\Types\\Records1.cs",
+              "RelativeToolTip": "Types\\Records1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-15T22:23:02.998Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

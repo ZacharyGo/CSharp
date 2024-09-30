@@ -1,0 +1,81 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "Z:\\Practice\\C#\\TestConsole\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{799828ED-6C01-449F-BC10-18F86326C741}|TestConsole\\TestConsole.csproj|z:\\practice\\c#\\testconsole\\testconsole\\eventsbasic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{799828ED-6C01-449F-BC10-18F86326C741}|TestConsole\\TestConsole.csproj|solutionrelative:testconsole\\eventsbasic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{799828ED-6C01-449F-BC10-18F86326C741}|TestConsole\\TestConsole.csproj|z:\\practice\\c#\\testconsole\\testconsole\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{799828ED-6C01-449F-BC10-18F86326C741}|TestConsole\\TestConsole.csproj|solutionrelative:testconsole\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{799828ED-6C01-449F-BC10-18F86326C741}|TestConsole\\TestConsole.csproj|z:\\practice\\c#\\testconsole\\testconsole\\delegatesbasic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{799828ED-6C01-449F-BC10-18F86326C741}|TestConsole\\TestConsole.csproj|solutionrelative:testconsole\\delegatesbasic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e506b91c-c606-466a-90a9-123d1d1e12b3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "EventsBasic.cs",
+              "DocumentMoniker": "Z:\\Practice\\C#\\TestConsole\\TestConsole\\EventsBasic.cs",
+              "RelativeDocumentMoniker": "TestConsole\\EventsBasic.cs",
+              "ToolTip": "Z:\\Practice\\C#\\TestConsole\\TestConsole\\EventsBasic.cs",
+              "RelativeToolTip": "TestConsole\\EventsBasic.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAUwCwAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-29T16:12:22.957Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DelegatesBasic.cs",
+              "DocumentMoniker": "Z:\\Practice\\C#\\TestConsole\\TestConsole\\DelegatesBasic.cs",
+              "RelativeDocumentMoniker": "TestConsole\\DelegatesBasic.cs",
+              "ToolTip": "Z:\\Practice\\C#\\TestConsole\\TestConsole\\DelegatesBasic.cs",
+              "RelativeToolTip": "TestConsole\\DelegatesBasic.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-29T11:25:17.024Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "Z:\\Practice\\C#\\TestConsole\\TestConsole\\Program.cs",
+              "RelativeDocumentMoniker": "TestConsole\\Program.cs",
+              "ToolTip": "Z:\\Practice\\C#\\TestConsole\\TestConsole\\Program.cs",
+              "RelativeToolTip": "TestConsole\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-24T07:32:30.947Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
